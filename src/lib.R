@@ -5,5 +5,5 @@ library(tibble)  # column_to_rownames
 
 ###
 
-DATA_DIR <- 'D:/Downloads/BioInfo/data/'
-OUT_DIR <- 'D:/Downloads/BioInfo/images/'
+DATA_DIR <- 'D:/Downloads/hse21_H2AFZ_ZDNA_human/data/'
+OUT_DIR <- 'D:/Downloads/hse21_H2AFZ_ZDNA_human/images/'
