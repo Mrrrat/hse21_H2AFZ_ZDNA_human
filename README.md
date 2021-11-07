@@ -3,7 +3,7 @@
 ### Cтудент - Мансуров Марат
 | Организм      | Структура ДНК | Гистоновая метка | Тип клеток| .bed файл 1| .bed файл 2  |
 | ------------- |:-------------:|:----------------:|:---------:|:----------:|:------------:|
-| human(hg38)   | ZDNA          | H2AFZ           | A549      | [ENCFF107KLN](https://www.encodeproject.org/experiments/ENCSR000AUG/)| [ENCFF615OJI](https://www.encodeproject.org/experiments/ENCSR000AUH/#browser) |
+| human(hg38)   | [ZDNA](https://github.com/Nazar1997/DeepZ/tree/master/annotation)          | H2AFZ           | A549      | [ENCFF107KLN](https://www.encodeproject.org/experiments/ENCSR000AUG/)| [ENCFF615OJI](https://www.encodeproject.org/experiments/ENCSR000AUH/#browser) |
 
 ## Анализ пиков гистоновой метки
 
